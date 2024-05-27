@@ -2,3 +2,5 @@ https://omayo.blogspot.com/
 https://www.hyrtutorials.com/p/window-handles-practice.html
 https://www.onlinegdb.com/online_java_compiler
 https://cscircles.cemc.uwaterloo.ca/java_visualize/#
+https://www.geeksforgeeks.org/payment-gateway-testing-tutorial-sample-test-case/
+https://blog.imocha.io/selenium-coding-interview-questions
